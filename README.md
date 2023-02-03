@@ -1,10 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working on AvtoVAZ_Racing
-- 🌱 I’m currently learning Pygame
-
+### Hi  🧈 🧈 🧈
+- 🔭 I’m currently working on NOTHING
+- 🌱 I’m currently learning argparse
+I want to make my own website.
+I also want to develop any telegram bot and run it on Heroku.
 ![PhotikLed's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhotikLed&theme=dark&show_icons=true)
-<!--
-**PhotikLed/PhotikLed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
