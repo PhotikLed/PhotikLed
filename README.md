@@ -55,18 +55,3 @@
 </div>
 
 ---
-
-## Stats
-
-<div align="center">
-
-<!-- GitHub Readme Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PhotikLed&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=e5e7eb&bg_color=0b1220" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhotikLed&layout=compact&hide_border=true&title_color=0ea5e9&text_color=e5e7eb&bg_color=0b1220" />
-
-<br/>
-
-<!-- Streak (ВАЖНО: src в одну строку) -->
-<img height="170" src="https://streak-stats.demolab.com?user=PhotikLed&hide_border=true&background=0B1220&ring=0ea5e9&fire=0ea5e9&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=94a3b8&stroke=111827" />
-
-</div>
