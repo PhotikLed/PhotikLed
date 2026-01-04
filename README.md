@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0ea5e9,100:111827&text=PhotikLed&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=Python%20%7C%20Bots%20%7C%20API%20%7C%20Parsing%20%7C%20Docker%20%26%20VPS&descAlignY=60" />
-
 <a href="https://t.me/sotkami">
   <img src="https://img.shields.io/badge/Telegram-@sotkami-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
