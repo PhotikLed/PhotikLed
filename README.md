@@ -22,7 +22,7 @@
 **Bot:** aiogram  
 **Parsing:** requests, bs4, Selenium  
 **Infra:** Docker, nginx, Linux, VPS  
-**Also:** external APIs, базовый SQL
+**Also:** external APIs
 
 ---
 
