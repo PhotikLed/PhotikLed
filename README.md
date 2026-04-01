@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<a href="https://t.me/sotkami">
+<!-- <a href="https://t.me/sotkami">
   <img src="https://img.shields.io/badge/Telegram-@sotkami-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:ledlightsuper@yandex.ru">
+</a> -->
+<!-- <a href="mailto:ledlightsuper@yandex.ru">
   <img src="https://img.shields.io/badge/Email-ledlightsuper%40yandex.ru-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> -->
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=PhotikLed&style=flat-square&color=0ea5e9" />
