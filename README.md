@@ -18,6 +18,7 @@
 
 ## Stack
 
+**programming languages:** Python, C++
 **Backend:** FastAPI, Flask, SQLAlchemy, MySQL  
 **Bot:** aiogram  
 **Parsing:** requests, bs4, Selenium  
